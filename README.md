@@ -17,9 +17,9 @@ Keyhole Markup Language (KML) is an XML notation for expressing geographic annot
 
 Below demonstrates how it would look like when running in Google Earth.
 <p align="center">
-  <img src="https://github.com/tuyuaner/Facility-location-project/blob/master/Facility%20location%20project/Facilities%20location%20demo1.PNG" width="800"/>
+  <img src="https://github.com/tuyuaner/Facility-location-project/blob/master/Facilities%20location%20demo1.PNG" width="800"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/tuyuaner/Facility-location-project/blob/master/Facility%20location%20project/Facilities%20location%20demo2.PNG" width="800"/>
+  <img src="https://github.com/tuyuaner/Facility-location-project/blob/master/Facilities%20location%20demo2.PNG" width="800"/>
 </p>
